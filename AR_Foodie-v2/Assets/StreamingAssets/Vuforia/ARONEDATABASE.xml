@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARCard" size="4.000000 5.333333" />
+    <ImageTarget name="appetizer" size="6.000000 3.539062" />
+    <ImageTarget name="tagertburger" size="6.000000 6.379447" />
+    <ImageTarget name="Capture" size="6.000000 5.809524" />
+    <ImageTarget name="IMG_20190610_162504" size="6.000000 3.322404" />
+    <ImageTarget name="burger" size="6.000000 4.500000" />
+  </Tracking>
+</QCARConfig>

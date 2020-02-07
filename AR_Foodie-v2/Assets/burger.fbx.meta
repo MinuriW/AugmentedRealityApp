@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 27b6709164d4d6641813b5596cc5d784
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: .Tray
+    100002: //RootNode
+    100004: Camera
+    100006: Cube
+    100008: Cube.003
+    100010: Cube.004
+    100012: Cube.005
+    100014: Cube.006
+    100016: Cube.007
+    100018: Cube.009
+    100020: Cube.010
+    100022: Cube.011
+    100024: Cube.012
+    100026: Cube.013
+    100028: Cube.014
+    100030: Cube.015
+    100032: Cube.016
+    100034: Cube.017
+    100036: Cube.019
+    100038: Cube.020
+    100040: Cube.021
+    100042: Cube.022
+    100044: Cube.023
+    100046: Cylinder
+    100048: Cylinder.001
+    100050: Cylinder.002
+    100052: Cylinder.003
+    100054: Cylinder.004
+    100056: Cylinder.005
+    100058: Icosphere
+    100060: Light
+    100062: object_16.001
+    100064: object_18.001
+    100066: object_25
+    100068: object_29
+    100070: Plane.001
+    100072: Sphere
+    100074: Sphere.001
+    400000: .Tray
+    400002: //RootNode
+    400004: Camera
+    400006: Cube
+    400008: Cube.003
+    400010: Cube.004
+    400012: Cube.005
+    400014: Cube.006
+    400016: Cube.007
+    400018: Cube.009
+    400020: Cube.010
+    400022: Cube.011
+    400024: Cube.012
+    400026: Cube.013
+    400028: Cube.014
+    400030: Cube.015
+    400032: Cube.016
+    400034: Cube.017
+    400036: Cube.019
+    400038: Cube.020
+    400040: Cube.021
+    400042: Cube.022
+    400044: Cube.023
+    400046: Cylinder
+    400048: Cylinder.001
+    400050: Cylinder.002
+    400052: Cylinder.003
+    400054: Cylinder.004
+    400056: Cylinder.005
+    400058: Icosphere
+    400060: Light
+    400062: object_16.001
+    400064: object_18.001
+    400066: object_25
+    400068: object_29
+    400070: Plane.001
+    400072: Sphere
+    400074: Sphere.001
+    2000000: Camera
+    2100000: Tray
+    2100002: Cheese.001
+    2100004: Case a
+    2100006: Case b
+    2100008: Fries
+    2100010: Beef patty.001
+    2100012: Tomato seed.001
+    2100014: Tomato red centre.001
+    2100016: Tomato white core.001
+    2100018: Tomato glassy.001
+    2100020: Tomato.001
+    2100022: Mayo.001
+    2100024: Ice cream cup
+    2100026: Lettuce.001
+    2100028: Seed.001
+    2100030: Burger bun.001
+    2300000: .Tray
+    2300002: Cube
+    2300004: Cube.003
+    2300006: Cube.004
+    2300008: Cube.005
+    2300010: Cube.006
+    2300012: Cube.007
+    2300014: Cube.009
+    2300016: Cube.010
+    2300018: Cube.011
+    2300020: Cube.012
+    2300022: Cube.013
+    2300024: Cube.014
+    2300026: Cube.015
+    2300028: Cube.016
+    2300030: Cube.017
+    2300032: Cube.019
+    2300034: Cube.020
+    2300036: Cube.021
+    2300038: Cube.022
+    2300040: Cube.023
+    2300042: Cylinder
+    2300044: Cylinder.001
+    2300046: Cylinder.002
+    2300048: Cylinder.003
+    2300050: Cylinder.004
+    2300052: Cylinder.005
+    2300054: Icosphere
+    2300056: object_16.001
+    2300058: object_18.001
+    2300060: object_25
+    2300062: object_29
+    2300064: Plane.001
+    2300066: Sphere
+    2300068: Sphere.001
+    3300000: .Tray
+    3300002: Cube
+    3300004: Cube.003
+    3300006: Cube.004
+    3300008: Cube.005
+    3300010: Cube.006
+    3300012: Cube.007
+    3300014: Cube.009
+    3300016: Cube.010
+    3300018: Cube.011
+    3300020: Cube.012
+    3300022: Cube.013
+    3300024: Cube.014
+    3300026: Cube.015
+    3300028: Cube.016
+    3300030: Cube.017
+    3300032: Cube.019
+    3300034: Cube.020
+    3300036: Cube.021
+    3300038: Cube.022
+    3300040: Cube.023
+    3300042: Cylinder
+    3300044: Cylinder.001
+    3300046: Cylinder.002
+    3300048: Cylinder.003
+    3300050: Cylinder.004
+    3300052: Cylinder.005
+    3300054: Icosphere
+    3300056: object_16.001
+    3300058: object_18.001
+    3300060: object_25
+    3300062: object_29
+    3300064: Plane.001
+    3300066: Sphere
+    3300068: Sphere.001
+    4300000: .Tray
+    4300002: Cube
+    4300004: Cube.003
+    4300006: Cube.004
+    4300008: Cube.005
+    4300010: Cube.006
+    4300012: Cube.007
+    4300014: Cube.009
+    4300016: Cube.010
+    4300018: Cube.011
+    4300020: Cube.012
+    4300022: Cube.013
+    4300024: Cube.014
+    4300026: Cube.015
+    4300028: Cube.016
+    4300030: Cube.017
+    4300032: Cube.019
+    4300034: Cube.020
+    4300036: Cube.021
+    4300038: Cube.022
+    4300040: Cube.023
+    4300042: Cylinder
+    4300044: Cylinder.001
+    4300046: Cylinder.002
+    4300048: Cylinder.003
+    4300050: Cylinder.004
+    4300052: Cylinder.005
+    4300054: Icosphere
+    4300056: object_16.001
+    4300058: object_18.001
+    4300060: object_25
+    4300062: object_29
+    4300064: Plane.001
+    4300066: Sphere
+    4300068: Sphere.001
+    10800000: Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
